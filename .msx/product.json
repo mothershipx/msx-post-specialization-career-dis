@@ -1,0 +1,32 @@
+{
+  "id": "76fb9361-02b8-425d-87ab-2251af3e49da",
+  "name": "Post-Specialization Career Displacement",
+  "slug": "post-specialization-career-dis",
+  "category": "saas",
+  "score": 89,
+  "description": "Highly skilled professionals (journalists, CS grads, tech leads) are finding their specific degrees and experience are failing them in the current market, leading to 'status plummeting'—where a 43-year-old editor must work as a waiter or a 22-year-old CS grad remains unemployed at home.",
+  "pain_points": [
+    "Inability to land first interviews despite 150+ applications",
+    "Loss of professional identity during unemployment",
+    "Difficulty translating legacy skills (Journalism) to new income streams"
+  ],
+  "market_size": null,
+  "tech_stack": [
+    "node",
+    "express",
+    "react"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "268 upvotes",
+      "source": "reddit",
+      "mentions": 0
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-post-specialization-career-dis/",
+  "repo_url": "https://github.com/mothershipx/msx-post-specialization-career-dis",
+  "created_at": "2026-04-05T07:03:33.727Z",
+  "pipeline_version": "1.0.0"
+}
