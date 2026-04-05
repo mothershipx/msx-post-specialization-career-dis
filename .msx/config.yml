@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Post-Specialization Career Displacement
+slug: post-specialization-career-dis
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: post-specialization-career-dis.msx.dev
